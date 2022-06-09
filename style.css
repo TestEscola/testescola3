@@ -1,0 +1,37 @@
+.top {
+height: 100px;
+background-color: brown;
+border-radius: 30px;
+box-shadow: 5px 5px 20px rgba(0,0,0,0.5); 
+
+}
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: right;
+    padding: 40px;
+    
+
+
+}
+ul li {
+margin: 20px;
+
+}
+
+.caixa1 {
+    width: 300px;
+    height: 600px;
+    background-color: brown;
+    border-radius: 30px;
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.5);
+    position: relative;
+    top: 10px;
+    
+    float: right;
+
+
+
+}
+
+
